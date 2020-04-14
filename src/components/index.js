@@ -1,3 +1,3 @@
 export { Home } from "./Home";
-export { Users } from "./Users";
-
+export { UsersItem } from "./UsersItem";
+export { UsersTable } from "./UsersTable";
